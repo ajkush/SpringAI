@@ -135,11 +135,4 @@ OPENWEATHER_API_KEY=your-openweathermap-api-key-here
 ```
 Get your free API key at: https://openweathermap.org/api
 
-### Optional (Paid - $5 minimum):
-```bash
-OPENAI_API_KEY=your-openai-api-key-here
-```
-Only needed for AI-powered features. Get from: https://platform.openai.com/api-keys
-
-**Important:** OpenAI phased out free API credits in 2024. You must add $5 minimum to your account to use their API.
 
